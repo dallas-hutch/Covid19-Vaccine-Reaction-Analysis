@@ -28,9 +28,7 @@ Research Question 1. Can I classify which patients will be more likely to experi
 
 - There is a extremely slight, inverse relationship between number of days it takes to show symptoms from vaccination and the total number of symptoms a patient experiences. That is, as the gap between vaccination and onset date increases, symptom count decreases.
 
-<img src="https://github.com/dallas-hutch/Covid19-Vaccine-Reaction-Analysis/blob/main/images/regression_significancetesting.JPG" width=50% height=50%>
-
-<img src="https://github.com/dallas-hutch/Covid19-Vaccine-Reaction-Analysis/blob/main/images/lin_regression_fit.JPG" width=40% height=40%>
+<img src="https://github.com/dallas-hutch/Covid19-Vaccine-Reaction-Analysis/blob/main/images/regression_significancetesting.JPG" width=50% height=50%> <img src="https://github.com/dallas-hutch/Covid19-Vaccine-Reaction-Analysis/blob/main/images/lin_regression_fit.JPG" width=40% height=40%>
 
 - There is a statistically significant difference in age between patients who experienced severe side effects and patients who did not.
 
