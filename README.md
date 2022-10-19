@@ -26,7 +26,7 @@ Research Question 1. Can I classify which patients will be more likely to experi
 
 ![](https://github.com/dallas-hutch/Covid19-Vaccine-Reaction-Analysis/blob/main/images/auc_curvecomparison.JPG =100x100)
 
-<img src="https://your-image-url.type](https://github.com/dallas-hutch/Covid19-Vaccine-Reaction-Analysis/blob/main/images/auc_curvecomparison.JPG" width="100" height="100">
+<img src="https://github.com/dallas-hutch/Covid19-Vaccine-Reaction-Analysis/blob/main/images/auc_curvecomparison.JPG" width="100" height="100">
 
 - There is a extremely slight, inverse relationship between number of days it takes to show symptoms from vaccination and the total number of symptoms a patient experiences. That is, as the gap between vaccination and onset date increases, symptom count decreases.
 
