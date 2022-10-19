@@ -24,14 +24,16 @@ Research Question 1. Can I classify which patients will be more likely to experi
 
 ![](https://github.com/dallas-hutch/Covid19-Vaccine-Reaction-Analysis/blob/main/images/gradientboosting_classificationreport.JPG)
 
-![](https://github.com/dallas-hutch/Covid19-Vaccine-Reaction-Analysis/blob/main/images/auc_curvecomparison.JPG =100x100)
-
-<img src="https://github.com/dallas-hutch/Covid19-Vaccine-Reaction-Analysis/blob/main/images/auc_curvecomparison.JPG" width="100" height="100">
+<img src="https://github.com/dallas-hutch/Covid19-Vaccine-Reaction-Analysis/blob/main/images/auc_curvecomparison.JPG" width=75% height=75%>
 
 - There is a extremely slight, inverse relationship between number of days it takes to show symptoms from vaccination and the total number of symptoms a patient experiences. That is, as the gap between vaccination and onset date increases, symptom count decreases.
 
 ![](https://github.com/dallas-hutch/Covid19-Vaccine-Reaction-Analysis/blob/main/images/regression_significancetesting.JPG)
 
-![](https://github.com/dallas-hutch/Covid19-Vaccine-Reaction-Analysis/blob/main/images/lin_regression_fit.JPG)
+<img src="https://github.com/dallas-hutch/Covid19-Vaccine-Reaction-Analysis/blob/main/images/lin_regression_fit.JPG" width=75% height=75%>
 
 - There is a statistically significant difference in age between patients who experienced severe side effects and patients who did not.
+
+![](https://github.com/dallas-hutch/Covid19-Vaccine-Reaction-Analysis/blob/main/images/mannwhitneyu_test.JPG)
+
+<img src="https://github.com/dallas-hutch/Covid19-Vaccine-Reaction-Analysis/blob/main/images/age_dist_plot.JPG" width=75% height=75%>
