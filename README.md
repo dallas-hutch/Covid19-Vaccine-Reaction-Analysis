@@ -23,6 +23,7 @@ Research Question 1. Can I classify which patients will be more likely to experi
 - Based on the factors of age, gender, vaccine manufacturer, and medical history, I was able to classify whether or not a patient would experience severe side effects with Gradient Boosting performing the best of the three models.
 
 ![images/gradientboosting_classificationreport.JPG](https://github.com/dallas-hutch/Covid19-Vaccine-Reaction-Analysis/blob/main/images/gradientboosting_classificationreport.JPG)
+
 !(https://github.com/dallas-hutch/Covid19-Vaccine-Reaction-Analysis/blob/main/images/auc_curvecomparison.JPG)
 
 - There is a extremely slight, inverse relationship between number of days it takes to show symptoms from vaccination and the total number of symptoms a patient experiences. That is, as the gap between vaccination and onset date increases, symptom count decreases.
